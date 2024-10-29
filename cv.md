@@ -1,5 +1,7 @@
 # Bandarenka Yury
 
+![Bandarenka photo](./avatar.jpeg)
+
 Full name: Bandarenka Yury
 
 Contact Information: <ydaren@gmail.com>
